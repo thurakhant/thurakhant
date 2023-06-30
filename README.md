@@ -13,7 +13,7 @@
 <img align="left" src="
 https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thurakhant)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thurakhant&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

@@ -12,7 +12,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="left" src="https://skillicons.dev/icons?i=flutter,dart,python,haskell,androidstudio,swift&perline=4" />
+    <img align="left" src="https://skillicons.dev/icons?i=flutter,dart,python,haskell,swift,androidstudio,&perline=4" />
   </a>
   <img  align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=thurakhant&show_icons=true&theme=radical"/>
 </p>

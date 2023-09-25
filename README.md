@@ -17,6 +17,8 @@
   <img  align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=thurakhant&show_icons=true&theme=radical"/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=thurakhant)
+
 
 
 

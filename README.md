@@ -24,10 +24,14 @@
   </div>
 </div>
 
+<br>
+
 <!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thurakhant" alt="Profile Views">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational)](https://www.linkedin.com/in/thura-khant-thein-3363311a7/) &nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/thurakhant)](https://github.com/thurakhant) &nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/thurakhant?)](https://github.com/thurakhant) &nbsp;
+<img src="https://komarev.com/ghpvc/?username=thurakhant" alt="Profile Views">
+
 
 <!-- Add some spacing -->
 <br>

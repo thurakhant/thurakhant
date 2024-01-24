@@ -19,12 +19,11 @@
     </a>
   </div>
   <br>
-  <div align="center">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurakhant&layout=compact&theme=radical" alt="Top Languages">
-     <div>
-        ![Leetcode Stats](https://leetcard.jacoblin.cool/thurakhant)
-     </div>
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <img style="width: 40%;" src="https://leetcard.jacoblin.cool/thurakhant?ext=activity">
+  <!-- Add margin or padding to create spacing -->
+  <img style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurakhant&layout=compact&theme=radical" alt="Top Languages">
+</div>
 </div>
 
 <br>

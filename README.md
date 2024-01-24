@@ -21,6 +21,9 @@
   <br>
   <div align="center">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurakhant&layout=compact&theme=radical" alt="Top Languages">
+     <div>
+        ![Leetcode Stats](https://leetcard.jacoblin.cool/thurakhant)
+     </div>
   </div>
 </div>
 

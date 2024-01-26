@@ -5,6 +5,10 @@
   </a>
 </h1>
 
+<h1 align="center">
+  <img src="https://www.codewars.com/users/thurakhantthein/badges/large">
+</h1>
+
 <!-- About Me -->
 <p align="center">
   Hi, I'm Thura Khant Thein, a passionate developer. I love coding and exploring new technologies. Currently, I'm working with Flutter and Dart, and I'm always eager to learn and collaborate on exciting projects.

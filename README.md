@@ -37,6 +37,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/thurakhant)](https://github.com/thurakhant) &nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/thurakhant?)](https://github.com/thurakhant) &nbsp;
 <img src="https://komarev.com/ghpvc/?username=thurakhant" alt="Profile Views">
+[![wakatime](https://wakatime.com/badge/user/018e8981-274b-468e-be87-e49195ebfc95.svg)](https://wakatime.com/@018e8981-274b-468e-be87-e49195ebfc95)
 
 
 <!-- Add some spacing -->
